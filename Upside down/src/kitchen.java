@@ -54,7 +54,7 @@ public class kitchen extends JFrame {
                 null
         );
         JPanel buttonPanel2 = new JPanel();
-        sadButton = new JButton("Sad");
+        sadButton = new JButton("Happy");
         angryButton = new JButton("Angry");
         upsetButton = new JButton("Upset at the gun man’s incompetence");
 
